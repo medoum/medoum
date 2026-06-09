@@ -76,10 +76,10 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/freemangn">
+  <a href="https://github.com/medoum">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/ton-profil">
+  <a href="https://www.linkedin.com/in/mohamed-doumbouya-23a631183/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
