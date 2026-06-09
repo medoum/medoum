@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-* 👋 I'm Mamoudou Diallo
+* 👋 I'm Mohamed Doumbouya
 * 💼 Software Developer specialized in **Microsoft Dynamics CRM & .NET**
 * ⚙️ Building scalable backend systems & enterprise integrations
 * 🔄 Working with **Angular + .NET Core APIs**
