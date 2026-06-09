@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm < Mohamed Doumbouya /> 👋</h1>
 
 <p align="center">
-  💻 Software Developer | Backend & CRM Specialist <br/>
-  🚀 .NET • Dynamics CRM • Angular • DevOps Enthusiast
+  💻 Software Developer | Backend <br/>
+  🚀 .NET • Angular • DevOps Enthusiast
 </p>
 
 ---
@@ -10,18 +10,18 @@
 ## 👨‍💻 About Me
 
 * 👋 I'm Mohamed Doumbouya
-* 💼 Software Developer specialized in **Microsoft Dynamics CRM & .NET**
+* 💼 Software Developer specialized in ** .NET**
 * ⚙️ Building scalable backend systems & enterprise integrations
 * 🔄 Working with **Angular + .NET Core APIs**
 * 📊 Automating processes with **plugins, FetchXML & CRM workflows**
-* 🤝 Open to **freelance, internships & collaborations**
+* 🤝 Open to **freelance, cdi & collaborations**
 * 📚 Currently learning: **C++, Clean Architecture & DevOps (Docker/Kubernetes)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend & CRM
+### 💻 Backend 
 
 <p>
   <img src="https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp" />
@@ -51,9 +51,6 @@
 
 ## 🚀 What I Do
 
-* 🔹 Develop **Dynamics CRM plugins (C#)**
-* 🔹 Integrate external systems using **JSON flows & APIs**
-* 🔹 Automate CRM processes (logs, workflows, data mapping)
 * 🔹 Build **fullstack apps (Angular + .NET Core)**
 * 🔹 Design clean and maintainable architectures
 
@@ -70,7 +67,6 @@
 
 ## 📌 Featured Projects
 
-* 🔧 CRM Plugin Automation System (Dynamics CRM)
 * 🌐 Fullstack App (Angular + .NET Core API)
 * 🐳 DevOps Mini Projects (Docker / Kubernetes)
 * 💻 C++ CLI Task Manager (Clean Architecture)
@@ -92,7 +88,6 @@
 
 ## 🎯 Goals
 
-* 🚀 Become an expert in **Enterprise Software & CRM Solutions**
 * ☁️ Master **Cloud & DevOps (Azure, Kubernetes)**
 * 🧠 Deep dive into **System Design & Architecture**
 * 🔥 Build impactful and scalable real-world applications
